@@ -7,3 +7,8 @@ langchain-google-genai
 sentence-transformers
 faiss-cpu
 pypdf
+fastapi
+uvicorn
+python-multipart
+pytest
+httpx
